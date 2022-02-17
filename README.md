@@ -27,9 +27,9 @@ La plateforme devra permettre que :
 
 ## Livrables
 
-[x] Un diagramme de cas d'utilisation
-[x] Un diagramme de Séquence
-[x] Un diagramme de classe
+<p>[x] Un diagramme de cas d'utilisation</p>
+<p>[x] Un diagramme de Séquence</p>
+<p>[x] Un diagramme de classe</p>
 
 
 ## Author
